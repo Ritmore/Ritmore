@@ -17,7 +17,7 @@
 - 🔭 I'm currently working on **ML & Data Science projects**
 - 🌱 Always exploring new tools in **AI / Deep Learning**
 - 💡 I love finding patterns in data and building predictive models
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **ritmore.kaif@gmail.com**
 
 ---
 
@@ -61,7 +61,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/mohammed-kaif-ritmore-271179285" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
